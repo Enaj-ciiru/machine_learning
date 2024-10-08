@@ -1,0 +1,3 @@
+Project: Handwritten Digit Classification using TensorFlow and Keras
+
+Objective: Classify handwritten digits (0-9) using the MNIST dataset.
